@@ -13,3 +13,4 @@ if __name__ == "__main__":
     print("Generated password:", generate_strong_password())
     print("welcome to DevAsco")
     print 
+    final_password = generate_strong_password(16)
