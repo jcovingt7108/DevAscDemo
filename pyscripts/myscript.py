@@ -4,3 +4,4 @@ def main():
 if __name__ == "__main__":
     main()
     print
+    prompt("This is a test script for DevAscDemo")
